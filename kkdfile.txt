@@ -1,2 +1,7 @@
 Hello world this is my first project
 This is kalyan das and creating my new record
+To add the file to remote repository
+git add .
+git commint -m file name
+git push origin 'name the branch'
+now refresh the git hub profile.
