@@ -5,3 +5,18 @@ git add .
 git commint -m file name
 git push origin 'name the branch'
 now refresh the git hub profile.
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>
+			HELLO WORLD.COM
+	</title>
+	<style type="text/css">
+		.Box{
+			background-color:lightcoral;
+			border:3px blue solid;
+			padding-left: 20px;
+			margin: 10px;
