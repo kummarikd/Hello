@@ -43,7 +43,6 @@
 		<li>MY PROJECT 1</li>
 		<li>MY PROJECT 2</li>
 		<li>MY PROJECT 3</li>
-
 		<li>MY PROJECT 4</li>
 	</ul>
 	<ol>
@@ -180,3 +179,5 @@
 </footer>
 </div>
 </html>
+
+The end
